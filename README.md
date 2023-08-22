@@ -1,3 +1,3 @@
-# School Projects
+# Intermediate Mobile
 
-Here are some of the projects I've done or been a part of in school.
+Here is my school project for intermediate mobile.
